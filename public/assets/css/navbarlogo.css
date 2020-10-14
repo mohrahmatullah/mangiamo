@@ -1,0 +1,19 @@
+.navigation-bar {
+    width: 100%;
+    height: 74px;
+    background-color: #111;
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 80px;
+    height: 80px;
+    margin-left: 100px;
+    margin-top: 8px;
+}
+.navigation-bar1 {
+    width: 100%;
+    height: 74px;
+    background-color: #ffffff;
+    border-bottom: solid 1px #e6e6e6;
+}
